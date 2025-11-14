@@ -1,0 +1,13 @@
+#0;are;1;file1.txt;1;#
+#7;how;1;file1.txt;2;#
+#7;hi;2;file1.txt;2;;file2.txt;1;#
+#7;hello;1;file2.txt;1;#
+#8;is;1;file2.txt;1;#
+#10;krishna;1;file2.txt;2;#
+#12;my;1;file2.txt;1;#
+#13;name;1;file2.txt;1;#
+#24;you;1;file1.txt;1;#
+#26;123;1;file1.txt;1;#
+#26;5;1;file2.txt;1;#
+#27;@;1;file1.txt;1;#
+#27;%;1;file2.txt;1;#
